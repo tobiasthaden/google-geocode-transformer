@@ -6,6 +6,8 @@ const webpackOption = {
     output: {
         path: path.resolve(__dirname, "dist"),
         filename: "index.js",
+        library: 'google-geocode-transformer',
+        libraryTarget: 'umd'
     },
     module: {
         rules: webpack_rules
