@@ -11,12 +11,10 @@
     "url": "git+https://github.com/tobiasthaden/google-geocode-transformer.git"
   },
   "keywords": [
-    "google",
-    "maps",
-    "google",
-    "geocode",
-    "normalize",
-    "address"
+    "google maps",
+    "google geocode api",
+    "normalize address",
+    "address transformer"
   ],
   "author": "Tobias Thaden <hello@tobiasthaden.com>",
   "license": "MIT",
