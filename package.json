@@ -1,6 +1,6 @@
 {
   "name": "google-geocode-transformer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple transformer to normalize Google geocode results",
   "main": "dist/index.js",
   "scripts": {

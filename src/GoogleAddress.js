@@ -54,11 +54,7 @@ export default class GoogleAddress
         let match = Object.keys(this.types).filter(
             element => component.types.includes(element)
         );
-
-        if(!match.length) {
-            throw "The given type is not defined."
-        }
-
+        
         return this.types[match[0]];
     }
 
